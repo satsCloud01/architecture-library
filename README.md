@@ -83,6 +83,7 @@ Every document includes Mermaid diagrams that render natively on GitHub.
 | sats-recruitment | x | | | | x | x | x | | | 4 |
 | semantic-modeler | x | | | | x | | | | | 2 |
 | sentinel-ai | x | | | | x | x | x | | | 4 |
+| networking-academy       | architecture, domain-model, api-spec, constraints |   4 |
 | **Totals** | **18** | **6** | **5** | **2** | **14** | **11** | **8** | **6** | **2** | **78** |
 
 ---
@@ -175,3 +176,4 @@ The 19 documented applications share a common technology foundation:
 ## License
 
 Internal use only. All architecture documents are proprietary to the Sats portfolio.
+
